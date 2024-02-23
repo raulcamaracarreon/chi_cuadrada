@@ -2,7 +2,7 @@ import streamlit as st
 from scipy.stats import chi2_contingency
 
 # Título de la aplicación
-st.title('Aplicación de Prueba de Chi Cuadrada 2x2 - Para Sandy')
+st.title('Aplicación de Prueba de Chi Cuadrada 2x2')
 
 # Entradas de usuario para los conteos de la tabla de contingencia
 st.sidebar.header('Ingrese los conteos de la tabla de contingencia:')
